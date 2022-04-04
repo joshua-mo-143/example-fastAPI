@@ -1,7 +1,3 @@
 __pycache__
-Lib
-Scripts
-pyvenv.cfg
-Include
+venv/
 .env
-alembic.ini
